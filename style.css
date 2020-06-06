@@ -1,0 +1,299 @@
+.navbar{
+    background-color: lightslategray !important;
+    
+}
+
+.nav-link{
+    margin-left: 12px !important;
+    margin-right: 12px !important;
+    font-weight: bold;
+    color:bisque      !important;
+    display: inline !important;
+}
+#logo{
+    color: blanchedalmond !important;
+
+}
+.first-para{
+    text-align: center;
+    margin-top: 100px;
+}
+#first-para-line{
+    margin-top: 30px;
+
+}
+.first-para h1{
+    color: blue ;
+}
+.second-para{
+    text-align: center;
+    margin-top: 40px;
+
+}
+.second-para h1{
+    color: blue ;
+}
+.interesting-facts{
+    background-color: lightslategray ;
+    height: 250px;
+    margin-top: 100px;
+    text-align: center;
+    display: inline-block;
+    
+  
+    
+}
+#head{
+    color: blue;
+    margin-bottom: 140px    ;
+    margin-top: 40px;
+    float: left;
+    font-weight: bold;
+}
+#facts-para{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 100px;
+    vertical-align: baseline;
+    margin-right: 90px;
+    margin-left: 50px;
+    display: inline;
+   
+    
+}
+#facts-para1{
+    margin-top: 60px;
+    color: blanchedalmond ;
+    font-weight: bold;
+
+}
+
+#projects{
+    color: blue;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.container {
+    position: relative;
+    font-family: Arial;
+    margin-top: 40px;
+  }
+  
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 600px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  #fire-brigade{
+      position: absolute;
+      background-color: black;
+      color: white;
+      left: 500px;
+      padding-left: 20px;
+      padding-right: 20px;
+      top: 20px;
+  }
+ #more{
+     text-align: center;
+     margin-top: 100px;
+     margin-left: 50%;
+ }
+
+
+
+ 
+#foot{
+
+    margin-top: 200px;
+    background-color: rgb(46, 45, 45);
+    width: auto;
+    height: 300px;
+    position: relative;
+  
+
+}
+.office{
+    background-color: rgb(46, 45, 45);
+    color: #a1a2a3;
+    margin-top: 10px;
+    padding-top: 100px;
+    margin-left: 80px;
+}
+#img1{
+    background-color: rgb(46, 45, 45);
+    color:#a1a2a3;
+
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 9px;
+    margin-bottom: 10px;
+}
+
+#text1{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    font-size: 14px;
+
+    display: inline;
+    padding-bottom: 5px;
+}
+#list{
+    list-style-type: none;
+    margin-left: 37px;
+}
+
+.foot1{
+    background-color: rgb(46, 45, 45);
+    color: #a1a2a3;
+    margin-top: 10px;
+    margin-bottom: ;
+
+}
+#img2{
+    background-color: rgb(46, 45, 45);
+    
+
+    width: 20px;
+    height: 17px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+
+#foot .footer-bottom{
+    height: 30px;
+    width: 93%;
+    
+    background-color: #316dd9;
+    color: black;
+    position: absolute;
+    margin-right: 120px;
+    margin-top: 130px;
+    left: 0px;
+    bottom: 0px;
+    padding-top: 20px;
+  
+}
+
+ .office .links{
+    flex: 1;
+    border: 1px solid white;
+    padding: 25px;
+}
+
+.links {
+    float: right;
+    margin-right: 550px;
+    margin-top: 80px;
+    color:  white;
+   font-family: 'Merriweather', serif;
+   font-weight: 600;
+   font-size: 19px;
+   text-decoration: underline  #a1a2a3;
+   text-decoration-line: 10px;
+
+}
+
+#pic1, #pic2, #pic3, #pic4{
+    width: 20px;
+    height: 20px;
+}
+
+.pic-bot{
+    float: right;
+    margin-top: 140px;
+    margin-left: 650px;
+    
+    
+
+}
+.pics-bot{
+    margin-right: 20px;
+    position: absolute;
+}
+#copy{
+    color: #a1a2a3;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#first-para{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 70px;
+    margin-left: 70px;
+
+}
+
+#suc{
+    margin-top: 40px;
+    color: blue;
+}
+
+#cons.about{
+    height: 500px;
+}
+
+.media{
+    margin-top: 80px;
+}
+
+.align-self-center{
+    width: 300px;
+
+    margin-left: 30px;
+}
+
+.head-about{
+    text-align: center;
+    color: blue;
+    margin-top: 80px;
+}
+.career-head{
+    text-align: center;
+    margin-top: 50px;
+    color: blue;
+}
+.para-1{
+    text-align: center  ;
+    margin-top: 30px;
+}
+.para-2{
+    background-color: blue; 
+    height: 470px;
+    text-align: center;
+    color: white;
+    
+    padding: 160px;
+   
+}
+.row{
+    margin-top: 60px;
+   background-color: white;
+    
+}
+.col-md-6{
+    background-color: white;
+}
+.head-contact{
+    margin-top: 40px;
+    text-align: center;
+    color: blue;
+}
+.para-3{
+    text-align: center;
+    margin-top: 30px;
+}
+.form-align{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+}
